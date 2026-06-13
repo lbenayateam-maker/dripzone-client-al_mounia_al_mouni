@@ -1,0 +1,4 @@
+Dripzone Pro Template v2
+Folder: C:\Users\Administrator\Documents\Saas service website\build\Release\websites\al_mounia_al_mouni.__building
+Company: Al-Mounia
+Template: moroccan-mint-tea-tetouan-physics
